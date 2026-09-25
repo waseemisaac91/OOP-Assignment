@@ -1,8 +1,5 @@
 """
-Question 4: Vehicle Inheritance
-- Vehicle class with make, model, year
-- OffRoadVehicle subclass adds four_wheel_drive
-- SportsCar subclass adds max_speed
+Question 4: Vehicle 
 By Dana
 """
 class Vehicle:

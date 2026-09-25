@@ -1,7 +1,5 @@
 """
 Question 2: School Class
-- Attributes: name, foundation_year, students (list), teachers (dict)
-- Methods: add_new_student, add_new_teacher, view_student_list, view_teacher_list
 By Dana
 """
 
