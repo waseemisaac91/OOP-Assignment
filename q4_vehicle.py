@@ -6,7 +6,6 @@ Question 4: Vehicle Inheritance
 By Dana
 """
 
-
 class Vehicle:
     """Base class representing a vehicle."""
 
