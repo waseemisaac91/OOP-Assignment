@@ -5,7 +5,6 @@ Question 4: Vehicle Inheritance
 - SportsCar subclass adds max_speed
 By Dana
 """
-
 class Vehicle:
     """Base class representing a vehicle."""
 

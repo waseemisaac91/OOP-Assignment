@@ -5,7 +5,6 @@ Question 2: School Class
 By Dana
 """
 
-
 class School:
     """Represents a school with students and teachers."""
 
@@ -64,7 +63,6 @@ class School:
             f"School(name={self.name!r}, foundation_year={self.foundation_year}, "
             f"students={len(self.students)}, teachers={len(self.teachers)})"
         )
-
 
 # ---------- Testing ----------
 if __name__ == "__main__":
