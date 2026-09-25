@@ -51,5 +51,3 @@ python oop_questions/q2_school.py
 python oop_questions/q3_shape.py
 python oop_questions/q4_vehicle.py
 python oop_questions/q5_bank_account.py
-
-## 📁 Project Structure
